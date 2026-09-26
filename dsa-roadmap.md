@@ -468,18 +468,3 @@ Phase 8: 1-D DP → 2-D DP   (DP = backtracking + memoization)
 
 Phase 9: Bit Manipulation, Math/Geometry — standalone, slot in anytime
 ```
-
-## Suggested cadence
-
-- **Weeks 1-2:** Phase 0-1 (arrays, hashing, two pointers, sliding window, stack).
-- **Week 3:** Phase 2-3 (binary search, linked list, trees, tries).
-- **Week 4:** Phase 4-5 (heaps, backtracking).
-- **Weeks 5-6:** Phase 6 (graphs — this phase is dense, don't rush it).
-- **Week 7:** Phase 7 (intervals, greedy).
-- **Weeks 8-9:** Phase 8 (DP — the capstone; budget the most time here).
-- Ongoing, in parallel: Phase 9, and a weekly "mixed review" day doing 3-4
-  problems pulled randomly from earlier patterns so recognition speed doesn't decay.
-
-Once all patterns feel automatic, switch from "study by pattern" to timed mixed
-practice (e.g., a curated 150-problem list, randomized, no labels) — that's what
-actually simulates the interview, where nobody tells you which pattern applies.

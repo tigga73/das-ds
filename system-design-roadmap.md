@@ -711,18 +711,3 @@ Module 5. Real-world designs (URL Shortener, Chat, E-commerce, Social Media)
    ▼
 Module 6. Interviews: framework, trade-off articulation, mock practice
 ```
-
-## Suggested cadence
-
-- **Week 1:** Module 1 (fundamentals, HTTP, APIs, databases 101, auth).
-- **Week 2:** Module 2 (load balancers, caching, CDN, queues — dense, don't rush).
-- **Week 3:** Module 3 (SQL/NoSQL, indexing, replication, CAP, sharding — the
-  densest module; budget extra time here, CAP and sharding trip everyone up
-  the first time).
-- **Week 4:** Module 4 (scalability math, rate limiting, HA, coordination,
-  observability).
-- **Week 5:** Module 5 — build all four designs on paper, forcing yourself to
-  draw the end-to-end diagram each time.
-- **Week 6 onward:** Module 6 — one full timed mock per week, expanding into
-  new designs (rate limiter, distributed cache, ride-sharing/location-based
-  system) until a design goes end-to-end in 35-40 minutes unaided.
